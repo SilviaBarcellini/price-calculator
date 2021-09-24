@@ -1,0 +1,52 @@
+body {
+  font-weight: 400;
+  line-height: 1.666;
+  background-color: #f5f2ed;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding-top: 10%;
+}
+
+.rc-slider-mark-text {
+  display: flex;
+  visibility: visible;
+}
+
+.box {
+  width: 80%;
+  margin: 0 auto;
+  padding: 1em 0.75em;
+  background-color: #f9f7f4;
+}
+
+.licences {
+  color: "black";
+}
+
+.slider {
+  background-color: #f5f2ed;
+  padding: 10%;
+}
+
+.span {
+  font-size: 2rem;
+}
+
+.price {
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.toggle {
+  display: flex;
+  margin-left: 16.5em;
+  margin-right: 16.5em;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  background-color: greenyellow;
+}
